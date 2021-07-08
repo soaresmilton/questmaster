@@ -116,7 +116,30 @@ img {
 
 @media screen and (max-width: 660px) {
   @keyframes animateCloud {
-    0%{margin-left: -350px;}
+    0%{margin-left: -500px;}
     100%{margin-left: 100%;}
+  }
+
+  .x1 {
+    animation: animateCloud 14s linear infinite;
+    transform: scale(0.65);
+  }
+  
+  .x2 {
+    animation: animateCloud 12s linear infinite;
+    transform: scale(0.3);
+  }
+  
+  .x3 {
+    animation: animateCloud 9s linear infinite;
+    transform: scale(0.5);
+  }
+  .x4 {
+    animation: animateCloud 12s ease-in infinite;
+    transform: scale(0.4);
+  }
+  .x5 {
+    animation: animateCloud 11s linear infinite;
+    transform: scale(0.55);
   }
 }
