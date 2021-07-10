@@ -58,6 +58,7 @@ img {
 @keyframes animateCloud {
   0%{margin-left: -1000px;}
   100%{margin-left: 100%;}
+  
 }
 
 .x1 {
