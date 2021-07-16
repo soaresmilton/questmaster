@@ -9,6 +9,7 @@
   --dark-grey: #545454;
   --dark-blue: #49476D;
   --blue: #376CF6;
+  --light-blue: #0AA7E9;
   --orange: #EF912B;
 }
 html {
@@ -119,6 +120,11 @@ img {
   @keyframes animateCloud {
     0%{margin-left: -500px;}
     100%{margin-left: 100%;}
+  }
+
+
+  img {
+    width: 28rem;
   }
 
   .x1 {
