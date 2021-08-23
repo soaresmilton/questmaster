@@ -1,7 +1,7 @@
 {
   "name": "questmaster",
   "version": "1.0.0",
-  "description": "Questmaster repository",
+  "description": "QuestMaster",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
